@@ -1,7 +1,7 @@
 # MuseBot AI
 
 **Team Nebucoders** — a bot made for WRO Future Innovators, a
-line-following museum guide robot built for the WRO Future Innovators
+museum guide robot built for the WRO Future Innovators
 2026 season ("Robots Meet Culture"). It follows a taped line between exhibit booths,
 stops at each one, explains the artifact out loud, and answers visitor
 questions — getting more informative at each booth over the course of
