@@ -1,0 +1,17 @@
+[Unit]
+Description=MuseBot AI conversation loop
+After=network-online.target sound.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/nebucoders/Desktop/wroai
+Environment="PATH=/home/nebucoders/Desktop/wroai/.venv/bin:/usr/bin:/bin"
+ExecStart=/home/nebucoders/Desktop/wroai/.venv/bin/python3 /home/nebucoders/Desktop/wroai/musebot_main.py
+Restart=always
+RestartSec=3
+StandardOutput=append:/home/nebucoders/Desktop/wroai/musebot.log
+StandardError=append:/home/nebucoders/Desktop/wroai/musebot.log
+
+[Install]
+WantedBy=default.target

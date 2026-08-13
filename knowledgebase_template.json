@@ -1,0 +1,14 @@
+{
+  "booth_id": 1,
+  "title": "REPLACE: short exhibit name, spoken aloud by the robot",
+  "facts": [
+    "REPLACE: a fact about the exhibit, written as a complete sentence the robot can speak aloud",
+    "REPLACE: another fact",
+    "REPLACE: another fact"
+  ],
+  "themes": [
+    "REPLACE: short topic tag, e.g. bronze age",
+    "REPLACE: another topic tag, e.g. trade"
+  ],
+  "final": false
+}

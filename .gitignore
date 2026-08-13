@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+combined_questions.json
+musebot.log
