@@ -75,7 +75,7 @@ playback cannot reliably guarantee. So:
 - 12V battery, buck converter (12V → 5V), power switch, e-stop (wired in
   series on the positive lead, ahead of everything else)
 
-![Full hardware parts laid out]([images/hardware-parts.jpg](https://github.com/user-attachments/assets/82c3b936-28d0-4ede-bf88-54f19e1951bd))
+![Full hardware parts laid out](https://github.com/user-attachments/assets/82c3b936-28d0-4ede-bf88-54f19e1951bd))
 <!--
   IMAGE: hardware-parts.jpg — flat-lay photo of every component listed
   above, laid out on a table before assembly: Uno, Pi 4B, webcam,
