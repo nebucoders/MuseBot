@@ -51,7 +51,7 @@ playback cannot reliably guarantee. So:
   knowledgebase lookup, the conversation loop, and Q&A memory. Talks to
   the Uno over a single USB cable (serial), nothing else.
 
-![System architecture: Uno <-> Pi split](https://freeimage.host/i/CPURt9Vhttps://freeimage.host/i/CPZzdVp)
+![System architecture: Uno <-> Pi split](<img width="1774" height="887" alt="Image" src="https://github.com/user-attachments/assets/c2f06efc-1cdd-4270-ac8b-336a1ca8f408" />)
 <!--
   IMAGE: architecture.png — block diagram. Two boxes (Arduino Uno /
   Raspberry Pi 4B) connected by a labeled "USB serial, 115200 baud" arrow.
