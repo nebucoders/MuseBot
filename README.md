@@ -19,6 +19,7 @@ the competition as it accumulates what past visitors have asked.
 
 - [Why it's built this way](#why-its-built-this-way)
 - [Hardware](#hardware)
+- [Testing Video](#testingvideo)
 - [Conversation flow](#conversation-flow)
 - [Files](#files)
 - [APIs / services](#apis--services)
@@ -60,6 +61,10 @@ playback cannot reliably guarantee. So:
   from a prompt describing this layout, or a clean hand-drawn diagram
   (draw.io / excalidraw export works well here).
 -->
+
+##Testing Video
+
+- ![MuseBot Main Test](https://streamable.com/98m4ve))
 
 ## Hardware
 
