@@ -19,7 +19,7 @@ the competition as it accumulates what past visitors have asked.
 
 - [Why it's built this way](#why-its-built-this-way)
 - [Hardware](#hardware)
-- [Testing Video](#testingvideo)
+- [Testing Video](#testing-video)
 - [Conversation flow](#conversation-flow)
 - [Files](#files)
 - [APIs / services](#apis--services)
@@ -62,9 +62,12 @@ playback cannot reliably guarantee. So:
   (draw.io / excalidraw export works well here).
 -->
 
-##Testing Video
+## Testing Video
 
-- ![MuseBot Main Test](https://streamable.com/98m4ve))
+Watch the robot during testing.
+- [MuseBot Main Test](https://streamable.com/98m4ve)
+
+
 
 ## Hardware
 
