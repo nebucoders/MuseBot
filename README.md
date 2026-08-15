@@ -68,6 +68,8 @@ Watch the robot during testing.
 
 - **Final Test Video:**
 <video src="https://github.com/user-attachments/assets/657e7751-1e10-4afc-86d0-78704e7fcdd4" controls width="100%"></video>
+- **Test with real visitor:**
+<video src="https://github.com/user-attachments/assets/874db903-48ef-4db1-a17a-17c4ced8e465" controls width="100%"></video>
 
 
 ## Hardware
