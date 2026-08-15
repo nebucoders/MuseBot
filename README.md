@@ -65,7 +65,7 @@ playback cannot reliably guarantee. So:
 ## Testing Video
 
 Watch the robot during testing.
-- [MuseBot Main Test](file:///D:/WRO/VID-20260813-WA0057-2.mp4)
+- [MuseBot Main Test](https://github.com/user-attachments/assets/3155169a-c5db-4f96-8afd-c79467724fe1))
 
 
 
