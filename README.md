@@ -65,7 +65,8 @@ playback cannot reliably guarantee. So:
 ## Testing Video
 
 Watch the robot during testing.
-###Final Test Video:
+
+- ###Final Test Video:
 <video src="https://github.com/user-attachments/assets/657e7751-1e10-4afc-86d0-78704e7fcdd4" controls width="100%"></video>
 
 
