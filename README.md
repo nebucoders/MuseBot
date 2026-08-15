@@ -7,6 +7,9 @@ stops at each one, explains the artifact out loud, and answers visitor
 questions — getting more informative at each booth over the course of
 the competition as it accumulates what past visitors have asked.
 
+
+![Video](https://github.com/user-attachments/assets/3155169a-c5db-4f96-8afd-c79467724fe1)
+
 ![MuseBot on the competition track](https://iili.io/CPURt9V.md.png))
 <!--
   IMAGE: hero.jpg — main repo banner, shown at the top of the README.
