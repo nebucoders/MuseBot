@@ -65,9 +65,7 @@ playback cannot reliably guarantee. So:
 ## Testing Video
 
 Watch the robot during testing.
-<video src="https://github.com/user-attachments/assets/3155169a-c5db-4f96-8afd-c79467724fe1" controls width="100%"></video>
-![Video](https://github.com/user-attachments/assets/3155169a-c5db-4f96-8afd-c79467724fe1)
-
+<video src="https://github.com/user-attachments/assets/657e7751-1e10-4afc-86d0-78704e7fcdd4" controls width="100%"></video>
 
 
 ## Hardware
