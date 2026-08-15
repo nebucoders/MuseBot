@@ -65,8 +65,8 @@ playback cannot reliably guarantee. So:
 ## Testing Video
 
 Watch the robot during testing.
-![Full hardware parts laid out](https://github.com/user-attachments/assets/3155169a-c5db-4f96-8afd-c79467724fe1))
-https://github.com/user-attachments/assets/3155169a-c5db-4f96-8afd-c79467724fe1
+![Full hardware parts laid out](https://github.com/user-attachments/assets/3155169a-c5db-4f96-8afd-c79467724fe1)
+!https://github.com/user-attachments/assets/3155169a-c5db-4f96-8afd-c79467724fe1
 
 
 
